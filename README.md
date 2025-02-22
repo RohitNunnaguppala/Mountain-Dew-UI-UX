@@ -1,4 +1,3 @@
-You're right! Here's the **updated README** with the missing parts:  
 
 ---
 
@@ -30,7 +29,4 @@ Open **[`http://localhost:3000`](http://localhost:3000)** to view.
 🔗 **[View Website](https://your-url.vercel.app/)**  
 
 ---
-**Do the Dew!** ⚡🔥  
-```
 
-This version now includes **both localhost and live demo links**! 🚀 Let me know if you need more tweaks.
